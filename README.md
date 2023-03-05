@@ -1,3 +1,3 @@
-# Dapplet Improvement Proposals
+# Dapplet Protocol Improvement Proposals
 
 Coming soon...
